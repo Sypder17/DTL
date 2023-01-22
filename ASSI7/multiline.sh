@@ -1,0 +1,1 @@
+adding input through stdin.
